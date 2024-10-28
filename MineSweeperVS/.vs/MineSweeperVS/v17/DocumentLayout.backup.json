@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rmeudec\\Documents\\GitHub\\Minesweeper\\MineSweeperVS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3A427D-A0D4-48F5-9561-3371B1671C76}|MineSweeperVS.vcxproj|C:\\Users\\rmeudec\\Documents\\GitHub\\Minesweeper\\MineSweeperVS\\MineSweeperVS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C3A427D-A0D4-48F5-9561-3371B1671C76}|MineSweeperVS.vcxproj|solutionrelative:MineSweeperVS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MineSweeperVS.cpp",
+              "DocumentMoniker": "C:\\Users\\rmeudec\\Documents\\GitHub\\Minesweeper\\MineSweeperVS\\MineSweeperVS.cpp",
+              "RelativeDocumentMoniker": "MineSweeperVS.cpp",
+              "ToolTip": "C:\\Users\\rmeudec\\Documents\\GitHub\\Minesweeper\\MineSweeperVS\\MineSweeperVS.cpp",
+              "RelativeToolTip": "MineSweeperVS.cpp",
+              "ViewState": "AgIAAHEAAAAAAAAAAIAwwIsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T16:24:50.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
