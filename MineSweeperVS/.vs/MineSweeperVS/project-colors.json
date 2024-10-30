@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c3a427d-a0d4-48f5-9561-3371b1671c76": {
+      "ProjectGuid": "1c3a427d-a0d4-48f5-9561-3371b1671c76",
+      "DisplayName": "MineSweeperVS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,4 @@
+﻿  MineSweeperVS.cpp
+C:\Users\romai\Documents\GitHub\Minesweeper\MineSweeperVS\MineSweeperVS.cpp(58,58): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\romai\Documents\GitHub\Minesweeper\MineSweeperVS\MineSweeperVS.cpp(235,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  MineSweeperVS.vcxproj -> C:\Users\romai\Documents\GitHub\Minesweeper\MineSweeperVS\x64\Debug\MineSweeperVS.exe
