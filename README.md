@@ -5,6 +5,8 @@
 This is a console-based implementation of the classic *Minesweeper* game, written in C++ for Windows. The game consists of a grid of hidden cells, with some of them containing mines. The objective is to uncover all the cells without triggering any mines. The game provides an interface for users to interact with the grid, flag cells suspected to contain mines, and reveal non-mined cells.
 - Create in 1 week (Only by me)
 
+![image](https://github.com/user-attachments/assets/c7385f36-994a-4aea-97f6-f66b399a7fb1)
+
 ## Features
 
 - **Randomized Mines**: Mines are randomly placed on the grid at the start of each game.
